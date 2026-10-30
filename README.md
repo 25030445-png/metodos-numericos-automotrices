@@ -2,8 +2,8 @@
 
 **Problemario de sistemas de ecuaciones lineales — ITESA**
 
-**Autor:** Yacob Aminadab Barrientos Espinosa  
-**Matrícula:** 25030304  
+**Autor:** Davila Campuzano Jorge Fernando
+**Matrícula:** 25030445
 **Asignatura:** Métodos Numéricos
 
 Este repositorio contiene el código fuente real en Python 3.10+ del problemario de sistemas lineales de Ingeniería en Sistemas Automotrices. Los datos son **sintéticos para fines didácticos**; no se deben utilizar para calibración o control de vehículos reales.
@@ -35,4 +35,4 @@ No requiere paquetes externos. La ejecución debe mostrar **18/18 pruebas aproba
 
 **Importante:** los casos con diagnóstico de error están diseñados para comprobar la detección de sistemas inconsistentes, indeterminados, diagonales nulas o ausencia de convergencia. No son cálculos erróneos ocultos.
 
-**Repositorio vinculado a:** [Problemario de Yacob](https://github.com/25030445-png/metodos-numericos-automotrices).
+**Repositorio vinculado a:** (https://github.com/25030445-png/metodos-numericos-automotrices).
