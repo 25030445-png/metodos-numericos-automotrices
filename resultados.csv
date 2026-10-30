@@ -1,0 +1,19 @@
+id,metodo,caso,esperado,obtenido,residuo,iteraciones,prueba
+G01,gauss,Reparto de par en un tren planetario,resuelto,resuelto,0.0000e+00,0,APROBADA
+G02,gauss,Ramas eléctricas del ventilador de radiador,resuelto,resuelto,0.0000e+00,0,APROBADA
+G03,gauss,Fuerzas equivalentes del sistema de dirección,resuelto,resuelto,1.1369e-13,0,APROBADA
+G04,gauss,Aceleraciones en un soporte antivibratorio,resuelto,resuelto,0.0000e+00,0,APROBADA
+G05,gauss,Lecturas contradictorias de un medidor de caudal,inconsistente,inconsistente,N/A,0,APROBADA
+G06,gauss,Identificación incompleta de rigidez de soportes,indeterminado,indeterminado,N/A,0,APROBADA
+J01,jordan,Corrección lineal de velocidades de rueda,resuelto,resuelto,1.4211e-14,0,APROBADA
+J02,jordan,Corrientes de un inversor de tracción didáctico,resuelto,resuelto,0.0000e+00,0,APROBADA
+J03,jordan,Recorridos en varillajes de cambio,resuelto,resuelto,0.0000e+00,0,APROBADA
+J04,jordan,Reacciones de una carga aerodinámica ideal,resuelto,resuelto,0.0000e+00,0,APROBADA
+J05,jordan,Dos calibraciones incompatibles de un potenciómetro,inconsistente,inconsistente,N/A,0,APROBADA
+J06,jordan,Coeficientes no identificables de un sensor,indeterminado,indeterminado,N/A,0,APROBADA
+C01,jacobi,Temperaturas de tres zonas del estator,resuelto,resuelto,5.0599e-09,18,APROBADA
+C02,jacobi,Voltajes auxiliares en un módulo de carrocería,resuelto,resuelto,1.0548e-09,17,APROBADA
+C03,jacobi,Presiones reguladas de un sistema neumático,resuelto,resuelto,1.2231e-10,12,APROBADA
+C04,jacobi,Temperaturas de cuatro zonas del habitáculo,resuelto,resuelto,1.6307e-09,14,APROBADA
+C05,jacobi,Diagonal nula en señales del actuador de mariposa,diagonal_nula,diagonal_nula,N/A,0,APROBADA
+C06,jacobi,Lazo de realimentación con ganancia excesiva,no_convergencia,no_convergencia,N/A,41,APROBADA
